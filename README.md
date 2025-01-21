@@ -108,7 +108,6 @@ for (name in names(plots)) {
   print(plots[[name]])
 }
 ```
-<img src="sankey.png" width="100%" style="display: block; margin: auto;" />
 
 Sankey plot between MSCs and the epithelium and MSCs. Red is upregulated and blue is downregulated
 ![Integration-all](sankey.png)
