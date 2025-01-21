@@ -108,3 +108,8 @@ for (name in names(plots)) {
   print(plots[[name]])
 }
 ```
+<img src="man/figures/Integration_SCP-1.png" width="100%" style="display: block; margin: auto;" />
+
+UMAP embeddings based on different integration methods in SCP:
+
+![Integration-all](man/figures/Integration-all.png)
