@@ -110,4 +110,4 @@ for (name in names(plots)) {
 ```
 
 Sankey plot between MSCs and the epithelium and MSCs. Red is upregulated and blue is downregulated
-![Integration-all](sankey.png)
+![Integration-all](sankey_plot.png)
