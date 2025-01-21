@@ -25,7 +25,7 @@ Below is an example
 ``` r
 senders <- c("MSCs")
 receivers <- list(
-  c("Arterial EC", "Sinusoidal EC", "Specialized EC"),
+  c("cDC1", "cDC2", "Ly6-hi Macro Mono", "Neutrophils", "Neutrophil progenitors", "Proliferating Neutrophils")
   c("MSCs", "Epithelium")
 )
 ```
