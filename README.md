@@ -1,4 +1,4 @@
-# SankeyPlot_CellChat
+# SankeyPlot CellChat
 Generate Sankey plots from merged CellChat objects
 
 After running CellChat and having a merged cellchat object, you might want to plot those relevant LR-pair interactions between cell types (groups).
